@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ayanfemicheal12-beep.github.io/okanecreative/sitemap.xml
